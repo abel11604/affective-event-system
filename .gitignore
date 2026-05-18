@@ -1,7 +1,4 @@
 .env
 .spyproject/
 __pycache__/
-*.pyc.env
-.spyproject/
-__pycache__/
 *.pyc
