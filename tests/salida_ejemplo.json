@@ -1,0 +1,20 @@
+{
+  "event": {
+    "source": {
+      "objectName": "Sistema_Tutor",
+      "familiarity": 1.0,
+      "perception": 0.0
+    },
+    "action": {
+      "actionName": "Reprobar_Examen",
+      "actionValence": "NEGATIVE",
+      "actionDegree": -0.85
+    },
+    "target": {
+      "objectName": "Estudiante",
+      "familiarity": 1.0,
+      "perception": 0.0
+    },
+    "dateTime": "2026-03-10T14:30:00Z"
+  }
+}
