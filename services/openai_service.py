@@ -25,7 +25,6 @@ DEFAULT_TEMPERATURE = 0.2
 
 class OpenAIService:
     """
-    Envoltorio mínimo sobre el SDK oficial de OpenAI.
 
     Lo usan las fases A (normalización contextual) y C (estimación del impacto
     intrínseco) del pipeline para enviar prompts al LLM y recibir respuestas
